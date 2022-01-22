@@ -3,7 +3,7 @@
 > Will you choose to follow the white rabbit like NEO? THINK wisely or LOOK your path deeply before you take step.                
 > Author: marufmurtuza
 
-File `whiterabbit.jpg`
+File [whiterabbit.jpg](https://github.com/Butterflies4/KnightCTF2022/edit/main/Steganography/Follow%20The%20White%20Rabbit/whiterabbit.jpg)
 ## Solution
 Sử dụng [stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)       
 Download file `stegsolve.jar` và chạy lệnh
