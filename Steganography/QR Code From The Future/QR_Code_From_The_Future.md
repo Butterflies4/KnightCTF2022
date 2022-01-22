@@ -2,7 +2,8 @@
 ## Description
 > The following file was found in a device from a crashed UFO.      
 > Can you solve that mystery?             
-> Author : marufmurtuza      
+> Author : marufmurtuza           
+
 Một file `QR_Code_From_The_Future.gif` được cung cấp
 ## Solution
 Đầu tiên, sử dụng [web này](https://ezgif.com/) để cắt từng frame trong file gif      
