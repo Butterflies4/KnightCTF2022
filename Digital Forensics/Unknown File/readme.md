@@ -12,5 +12,5 @@ Sử dụng `hexedit` để sửa 8 bytes đầu tiên, sau đó sửa đuôi th
 ┌──(kali㉿kali)-[~/Documents/KnightCTF/Digital_Forensics/Unknown File]
 └─$ hexedit unknown\ file
 ```
-Mở file png và ta có flag     
+Mở file [png](https://github.com/Butterflies4/KnightCTF2022/blob/main/Digital%20Forensics/Unknown%20File/unknown%20file.png) và ta có flag     
 > KCTF{Imag3_H3ad3r_M4nipul4t10N}
