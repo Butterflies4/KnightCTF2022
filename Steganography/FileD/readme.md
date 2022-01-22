@@ -4,7 +4,7 @@
 > Flag Format: KCTF{S0m3_text_h3r3}              
 > Author: 1xR1fat
 
-File 
+File [filed.kra](https://github.com/Butterflies4/KnightCTF2022/edit/main/Steganography/FileD/filed.kra)
 ## Solution
 Sau khi tìm hiểu thì ta thấy muốn mở được file cần phải cài phần mềm là [krita](https://fileinfo.com/extension/kra)        
 Download về và mở hình ảnh lên      
