@@ -14,7 +14,7 @@ Ta được 48 frame hình ảnh, mỗi hình ảnh là một mã QR, khi scan t
 Nối 2 chuỗi ta được `pbqr_tbg_ribyirq_sebz_fgngvp_gb_qlanzvp}GPXSE{_D`        
 Có vẻ như chuỗi này đã được encode ROT13, thử decode xem sao         
 ![image](https://user-images.githubusercontent.com/62021009/150629152-789aaa2d-a6f3-43a6-a5b0-7a9315d38a92.png)      
-Sắp xếp lại một chút cho đúng flag thì ta được flag     
+Sắp xếp lại một chút cho đúng format thì ta được flag     
 > Flag: KCTF{QR_code_got_evolved_from_static_to_dynamic}
 ## References
 https://github.com/Stirring16/DownUnderCTF-2021/tree/main/Forensics/How%20to%20pronounce%20GIF      
