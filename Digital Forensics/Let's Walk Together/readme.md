@@ -6,7 +6,7 @@
 
 File
 ## Solution
-Sử dụng binwalk để kiểm tra có phải nào bị nén không       
+Sử dụng binwalk để kiểm tra có file nào bị nén không       
 ```
 ┌──(kali㉿kali)-[~/Documents/KnightCTF/Digital_Forensics/Let's Walk Together]
 └─$ binwalk interesting_waves.png 
