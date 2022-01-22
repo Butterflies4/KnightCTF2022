@@ -4,7 +4,7 @@
 > Can you solve that mystery?             
 > Author : marufmurtuza           
 
-Một file `QR_Code_From_The_Future.gif` được cung cấp
+File [QR_Code_From_The_Future.gif](https://github.com/Butterflies4/KnightCTF2022/edit/main/Steganography/QR%20Code%20From%20The%20Future/QR_Code_From_The_Future.gif)
 ## Solution
 Đầu tiên, sử dụng [web này](https://ezgif.com/) để cắt từng frame trong file gif      
 ![image](https://user-images.githubusercontent.com/62021009/150628840-d7356173-5ad7-41f3-8317-72c7e8e2df44.png)         
