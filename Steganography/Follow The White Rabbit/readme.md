@@ -1,6 +1,6 @@
 # Follow The White Rabbit
 ## Description
-> Will you choose to follow the white rabbit like NEO? THINK wisely or LOOK your path deeply before you take step.
+> Will you choose to follow the white rabbit like NEO? THINK wisely or LOOK your path deeply before you take step.                
 > Author: marufmurtuza
 
 File `whiterabbit.jpg`
