@@ -12,7 +12,7 @@ Ta được 48 frame hình ảnh, mỗi hình ảnh là một mã QR, khi scan t
 ![image](https://user-images.githubusercontent.com/62021009/150629032-6445b65e-d6d9-4caf-91f2-0a4b78838269.png)        
 Nối 2 chuỗi ta được `pbqr_tbg_ribyirq_sebz_fgngvp_gb_qlanzvp}GPXSE{_D`        
 Có vẻ như chuỗi này đã được encode ROT13, thử decode xem sao         
-![image](https://user-images.githubusercontent.com/62021009/150629152-789aaa2d-a6f3-43a6-a5b0-7a9315d38a92.png)
+![image](https://user-images.githubusercontent.com/62021009/150629152-789aaa2d-a6f3-43a6-a5b0-7a9315d38a92.png)      
 Sắp xếp lại một chút cho đúng flag thì ta được flag     
 > Flag: KCTF{QR_code_got_evolved_from_static_to_dynamic}
 ## References
