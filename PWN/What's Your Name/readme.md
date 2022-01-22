@@ -5,7 +5,7 @@
 > Flag Format : KCTF{S0m3_T3xT_H3r3}               
 > Author : NomanProdhan
 
-File binary `whats_your_name`
+File binary [whats_your_name](https://github.com/Butterflies4/KnightCTF2022/edit/main/PWN/What's%20Your%20Name/whats_your_name)
 ## Phân tích
 Kiểm tra file và checksec
 ![image](https://user-images.githubusercontent.com/62021009/150630898-a1e55629-c759-48a6-b30f-9937daec832b.png)
