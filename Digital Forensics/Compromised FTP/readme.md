@@ -4,7 +4,7 @@
 > Flag Format: KCTF{username_127.0.0.1}          
 > Author : TareqAhamed
 
-File [ftp.log]
+File [ftp.log](https://github.com/Butterflies4/KnightCTF2022/blob/main/Digital%20Forensics/Compromised%20FTP/ftp.log)
 ## Solution
 Ở đây có chứa rất nhiều phiên đăng nhập từ ip 192.168.19.7, ta tiến hành lọc hết tất cả các log, và tìm log đăng nhập thành công    
 ```
