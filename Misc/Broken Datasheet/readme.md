@@ -4,7 +4,7 @@
 > Flag Format: KCTF{S0m3_TexT_H3re}        
 > Author: marufmurtuza
 
-File
+File [Broken Datasheet.xlsx](https://github.com/Butterflies4/KnightCTF2022/edit/main/Misc/Broken%20Datasheet/Broken Datasheet.xlsx)
 ## Solution
 Sau khi tìm hiểu, thì các file powerpoint, excel thực chất là những file zip.     
 Tiến hành unzip file excel         
