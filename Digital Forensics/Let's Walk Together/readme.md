@@ -51,7 +51,7 @@ _interesting_waves.png.extracted
 
 1 directory, 4 files
 ```
-Ta thấy có file flag.txt, tuy nhiên khi file này là file  rỗng
+Ta thấy có file flag.txt, tuy nhiên file này là file rỗng        
 Tiếp theo, ta tiến hành giải nén file `11150.zip`, tuy nhiên file này yêu cầu mật khẩu    
 ```
 ┌──(kali㉿kali)-[~/…/KnightCTF/Digital_Forensics/Let's Walk Together/_interesting_waves.jpg.extracted]
