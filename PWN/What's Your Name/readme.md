@@ -30,7 +30,7 @@ int __cdecl main(int argc, const char **argv, const char **envp)
 Chương trình sẽ lấy input từ người dùng, lưu vào biến v4 và sau đó in ra `Welcome + v4`      
 Biến v5 ban đầu được gán bằng 100, sau đó chương trình có kiểm tra nếu biến v5 đã bị thay đổi thì sẽ lấy flag cho ta :D
 ## Solution
-Chúng ta sẽ sử dụng buffer overflow để ghi đè dẫn đến thay đổi giá trị của biến v5          
+Chúng ta sẽ buffer overflow để ghi đè dẫn đến thay đổi giá trị của biến v5          
 Ở đây, ta thấy biến v4 nằm ở vị trí `rbp-0x40`, biến v5 nằm ở `rbp-0x4`, như vậy ta chỉ cần có padding đủ lớn (cụ thể là lớn hơn hoặc bằng 60) thì sẽ thay đổi được biến v5
 ![image](https://user-images.githubusercontent.com/62021009/150631091-492c09ad-7bbb-466b-ae11-464b9be132e9.png)     
 > Flag: KCTF{bAbY_bUfF3r_0v3Rf1Ow}
