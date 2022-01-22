@@ -3,7 +3,7 @@
 > My friend John was interested to know my country . He told me that to give him some images and articles about my county . I gave him some images and articles. In one image I provided some hidden data but he can not find hidden data . I told him Always remember 3 number sum equal to a game-changer. but he can not find hidden data . For that reason, I gave him that game-changer key.                     
 > Author: 1xR1fat     
 
-Hình ảnh `Bangladesh.jpg` được cung cấp
+File [Bangladesh.jpg](https://github.com/Butterflies4/KnightCTF2022/edit/main/Steganography/Bangladesh/Bangladesh.jpg)
 
 ## Solution
 Sử dụng [Stegseek](https://github.com/RickdeJager/stegseek) dò wordlist để extract file      
