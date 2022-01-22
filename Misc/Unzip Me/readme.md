@@ -4,7 +4,7 @@
 > Flag Format: KCTF{S0m3_T3xt_H3re}          
 > Author: NomanProdhan
 
-File 
+File [unzipme.tar.gz](https://github.com/Butterflies4/KnightCTF2022/edit/main/Misc/Unzip%20Me/unzipme.tar.gz)
 ## Solution
 Như đề bài yêu cầu, ta cần giải nén file này ra.
 Kiểm tra file thì thấy được nén theo gzip      
