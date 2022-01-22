@@ -4,7 +4,7 @@
 > Flag Format: KCTF{S0m3_Tex7_H3re}     
 > Author: TareqAhmed       
 
-File
+File [interesting_waves.png](https://github.com/Butterflies4/KnightCTF2022/edit/main/Digital%20Forensics/Let's%20Walk%20Together/interesting_waves.png)
 ## Solution
 Sử dụng binwalk để kiểm tra có file nào bị nén không       
 ```
