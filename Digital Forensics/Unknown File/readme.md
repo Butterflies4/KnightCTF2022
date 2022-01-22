@@ -4,7 +4,7 @@
 > Flag Format: KCTF{pla1n_t3xt_here}      
 > Author : TareqAhamed
 
-File 
+File [unknown file](https://github.com/Butterflies4/KnightCTF2022/blob/main/Digital%20Forensics/Unknown%20File/unknown%20file)
 ## Solution
 Tham khảo [trang này](https://www.garykessler.net/library/file_sigs.html) để kiểm tra file signature, thì ta thấy 8 bytes đầu của file bị sai. Ta sửa lại thành định dạng png `89 50 4E 47`    
 Sử dụng `hexedit` để sửa 8 bytes đầu tiên, sau đó sửa đuôi thành png
