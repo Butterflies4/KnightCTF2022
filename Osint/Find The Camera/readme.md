@@ -5,7 +5,7 @@
 > Flag Format: KCTF{MANUFACTURER_MODEL_SINGLELETTERNUMBER}                    
 > Author : marufmurtuza
 
-File
+File [Bus.png](https://github.com/Butterflies4/KnightCTF2022/edit/main/Osint/Find%20The%20Camera/Bus.png)
 ## Solution
 ![image](https://user-images.githubusercontent.com/62021009/150681802-d60be843-aa28-4e32-9f72-d56ba2d05b49.png)         
 Ta để ý trên hình có dòng chữ &copy;JenCh012 và số trên xe bus là 206. Google search với từ khoá `JenCh012 206`, ta tìm được trang web https://fotobus.msk.ru/vehicle/204172/?lang=en             
