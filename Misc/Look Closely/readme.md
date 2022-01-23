@@ -12,7 +12,7 @@ Ta được một link drive
 ![image](https://user-images.githubusercontent.com/62021009/150679999-e0e97920-8e03-45a8-b245-bb853445f746.png)
 > https://drive.google.com/file/d/1_6c_waS9ijouTpqI_tUO6VCRf7fE6gCY/view     
 
-Truy cập vào drink, ta thấy có video, xem kĩ video, tại giây thứ 10
+Truy cập vào drink, ta thấy có video, xem kĩ video, chỉnh tốc độ 0x25, tại giây thứ 10
 ![1_1](https://user-images.githubusercontent.com/62021009/150680210-066d9fce-c506-49f5-9672-a68ba81b7238.png)
 Ta được chuỗi binary `01001011 01000011 01010100 01000110 01111011 01001000 00110011`          
 Và tại giây thứ 52, ta được chuỗi binary `01001100 01001100 01001111 01011111 01001010 00110011 01001100 01001100 01001111 01111101`       
