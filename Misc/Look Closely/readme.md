@@ -4,7 +4,7 @@
 > Flag Format : KCTF{SOM3THING H3R3}           
 > Author : Asif Ahmed              
 
-File [look closely.wav](https://github.com/Butterflies4/KnightCTF2022/edit/main/Misc/Look%20Closely/look closely.wav)
+File [look closely.wav](https://github.com/Butterflies4/KnightCTF2022/edit/main/Misc/Look%20Closely/look%20closely.wav)
 ## Solution
 Sử dụng `Audacity` để mở file âm thanh, chọn chế độ hiển thị là Spectrogram          
 ![image](https://user-images.githubusercontent.com/62021009/150679972-abef84ea-2dd5-4d9a-92e7-5ba5e8672c69.png)       
